@@ -8,6 +8,8 @@ System.out.println(1);
 System.out.println(11);
 System.out.println(111);
 System.out.println(1111);
+System.out.println(2);
+System.out.println(22);
 
 	}
 
